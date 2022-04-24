@@ -1,4 +1,11 @@
 - 👋 Hi, I’m @kaamanan
+- tecnologias
+  - backend:
+    - golang, nodejs e java.
+  - devops e devsecops:
+    - python e golang;
+    - aws e azure;
+    - terraform.   
 ____________________________________
 <!--
 
